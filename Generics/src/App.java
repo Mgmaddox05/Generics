@@ -18,7 +18,7 @@ public class App {
         result = changePostfix(postfixExpression);
         System.out.println("Result: " + result);
 
-        postfixExpression = "56+4*";
+        postfixExpression = "59+4*";
         result = changePostfix(postfixExpression);
         System.out.println("Result: " + result);
     }
